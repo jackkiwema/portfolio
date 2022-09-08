@@ -5,21 +5,21 @@ import { VscCode } from 'react-icons/vsc';
 
 export default [
     {
-        title: 'Web Design',
+        title: 'System Administrator',
         icon: <MdWeb className="w-full h-full" />,
-        description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum ab veritatis esse, quasi eveniet, itaque delectus porro, debitis qui voluptates molestiae quis? Fugit soluta tempora laboriosam, earum accusamus aliquid perspiciatis!.',
-        
-    },
-    {
-        title: 'UI Design',
-        icon: <FaHandHoldingHeart className='w-full h-full' />,
-        description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum ab veritatis esse, quasi eveniet, itaque delectus porro, debitis qui voluptates molestiae quis? Fugit soluta tempora laboriosam, earum accusamus aliquid perspiciatis!.',
+        description: 'Experienced in configuration of enterprise core routers, windows Active Directory servers and Linux servers',
         
     },
     {
         title: 'Web Development',
+        icon: <FaHandHoldingHeart className='w-full h-full' />,
+        description: 'Skilled in building systems interacted with on the web, some of the stacks I'm currently using includes: react framework, php and flask framework',
+        
+    },
+    {
+        title: 'Cloud Administrator',
         icon: <VscCode className='w-full h-full' />,
-        description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum ab veritatis esse, quasi eveniet, itaque delectus porro, debitis qui voluptates molestiae quis? Fugit soluta tempora laboriosam, earum accusamus aliquid perspiciatis!.',
+        description: 'Supporting systems in cloud, with focus on Google GCP',
         
     } 
     
